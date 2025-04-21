@@ -1,5 +1,5 @@
 import './App.css'
-import Card from './pokemonComponents/card.jsx'
+import Card from '../src/pokemonComponents/Card.jsx'
 function App() {
 
   return (
@@ -8,5 +8,4 @@ function App() {
     </>
   )
 }
-
 export default App
